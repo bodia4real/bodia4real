@@ -10,10 +10,6 @@ Currently working on **ResumeAI** – a Django app with OpenAI API that helps tr
 
 Building production backends with Django, Node.js, and Spring Boot. Integrating AI capabilities (OpenAI, Ollama) into real applications. Working on **ResumeAI** for intelligent job tracking and **MindDriveX** marketplace backend.
 
-## 🌱 I'm currently learning
-
-Advanced Python backend patterns, distributed systems architecture, and effective AI prompt engineering for production applications.
-
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, Java, SQL
