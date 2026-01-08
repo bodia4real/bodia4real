@@ -25,11 +25,3 @@ Advanced Python backend patterns, distributed systems architecture, and effectiv
 **Data:** PostgreSQL, MongoDB, Pandas, Matplotlib
 
 **Tools:** Docker, Git, Azure
-
----
-
-## 📫 Reach me
-
-**bohdan.yakubiak@gmail.com** | Ottawa, ON
-
-Open to backend developer roles focused on Python/Node.js/Java and AI integration.
