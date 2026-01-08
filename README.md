@@ -21,3 +21,7 @@ Building production backends with Django, Node.js, and Spring Boot. Integrating 
 **Data:** PostgreSQL, MongoDB, Pandas, Matplotlib
 
 **Tools:** Docker, Git, Azure
+
+---
+📫 Reach me
+bohdan.yakubiak@gmail.com | Ottawa, ON
