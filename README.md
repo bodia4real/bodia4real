@@ -25,4 +25,4 @@ Building production backends with Django, Node.js, and Spring Boot. Integrating 
 ---
 📫 Reach me
 
-bohdan.yakubiak@gmail.com | Ottawa, ON
+bohdan.yakubiak@gmail.com 
