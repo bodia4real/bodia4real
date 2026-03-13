@@ -1,6 +1,6 @@
 # Hey 👋 I'm Bohdan
 
-Backend Developer based in Ottawa, building systems with Node.js, Python and AI integration.
+Backend Developer based in Ottawa, building systems with Node.js, FastAPI (Python) and AI integration.
 
 ---
 
